@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/24 6:07 PM
-# @Author  : 
+# @Author  : YIQIU ZHENG
 # @FileName: AllTypes.py
 # @Software: PyCharm
 
