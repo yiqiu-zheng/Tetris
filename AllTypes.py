@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/24 6:07 PM
-# @Author  : mirko
+# @Author  : 
 # @FileName: AllTypes.py
 # @Software: PyCharm
 
