@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/25 7:18 PM
-# @Author  : mirko
+# @Author  : YIQIU ZHENG
 # @FileName: CoreFrame2.py
 # @Software: PyCharm
 
