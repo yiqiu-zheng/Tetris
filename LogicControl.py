@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/26 10:58
-# @Author  : mirko
+# @Author  : YIQIU ZHENG
 # @FileName: LogicControl.py
 # @Software: PyCharm
 
