@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/27 14:40
-# @Author  : mirko
+# @Author  : YIQIU ZHENG
 # @FileName: main.py
 # @Software: PyCharm
 from PyQt5.QtWidgets import QDesktopWidget, QApplication
