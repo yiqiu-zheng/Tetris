@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # @Time    : 2020/10/24 10:10 PM
-# @Author  : mirko
+# @Author  : YIQIU ZHENG
 # @FileName: MainPanel.py
 # @Software: PyCharm
 
